@@ -1,0 +1,10 @@
+*.pyc
+*.swp
+*.sqlite3
+*~
+media/*
+env/
+.idea/
+mediavillage/settings/local.py
+share/
+fpanel/static/node_modules/
